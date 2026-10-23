@@ -1,0 +1,10 @@
+WhatsApp and TikTok marks are sourced from Simple Icons (CC0).
+https://simpleicons.org/
+Brand names and logos remain trademarks of their respective owners.
+YouTube, LinkedIn and WeChat marks are sourced from the Simple Icons v13.21.0 distribution (CC0).
+https://github.com/simple-icons/simple-icons/tree/13.21.0
+
+Vehicle logos Hyundai, Kia, Nissan, Toyota, Opel and BMW, and the Facebook mark:
+https://simpleicons.org/ (CC0 SVG distribution via cdn.simpleicons.org, retrieved 2026-10-23).
+Geely: header SVG from https://global.geely.com/, retrieved 2026-10-23, recolored for a single-color mark.
+Marks identify vehicle catalogue coverage or contact destinations; they do not indicate endorsement or authorized-dealer status.

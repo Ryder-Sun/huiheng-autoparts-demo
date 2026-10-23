@@ -1,0 +1,11 @@
+:HL["/huiheng-autoparts-demo/_next/static/css/ab323910884a62ac.css","style"]
+:HL["/huiheng-autoparts-demo/_next/static/css/934924dcce571d9d.css","style"]
+:HL["/huiheng-autoparts-demo/_next/static/media/46bdd75a3ff56824-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/huiheng-autoparts-demo/_next/static/media/5611c55482296524-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/huiheng-autoparts-demo/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/huiheng-autoparts-demo/_next/static/css/bf7cf0e9270a27ea.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"25380-4ba1a","s":[]},"h":65636,"c":"$Q4"}]]
+2:[["children",{"s":"products","h":131148,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error"]},"h":196648,"c":"$Q2"}]]
+0:{"b":"_us8997KC0r-uXYepzZ5V","t":{"t":{"s":"","h":131160,"c":"$Q1"}}}
