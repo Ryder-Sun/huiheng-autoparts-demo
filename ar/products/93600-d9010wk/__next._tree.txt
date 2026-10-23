@@ -7,5 +7,5 @@
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"93600-d9010wk","s":[]},"h":65636,"c":"$Q4"}]]
 2:[["children",{"s":"products","h":131148,"c":"$Q3"}]]
-1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error"]},"h":196648,"c":"$Q2"}]]
-0:{"b":"_us8997KC0r-uXYepzZ5V","t":{"t":{"s":"","h":131160,"c":"$Q1"}}}
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error","admin"]},"h":196648,"c":"$Q2"}]]
+0:{"b":"nijDaOOHJppfnDVqEUKyL","t":{"t":{"s":"","h":131160,"c":"$Q1"}}}

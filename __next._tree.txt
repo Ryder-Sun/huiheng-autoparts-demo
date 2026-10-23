@@ -1,4 +1,4 @@
 :HL["/huiheng-autoparts-demo/_next/static/css/ab323910884a62ac.css","style"]
 :HL["/huiheng-autoparts-demo/_next/static/css/934924dcce571d9d.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"_us8997KC0r-uXYepzZ5V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"nijDaOOHJppfnDVqEUKyL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,20 +1,20 @@
 3:"$Sreact.fragment"
-4:I[9630,[],""]
+4:I[99630,[],""]
 5:I[1380,[],""]
-a:I[887,[],"OutletBoundary"]
+a:I[30887,[],"OutletBoundary"]
 b:"$Sreact.suspense"
 e:"ViewportBoundary"
-f:I[887,[],"$e"]
+f:I[30887,[],"$e"]
 10:"MetadataBoundary"
-11:I[887,[],"$10"]
-12:I[214,[],"IconMark"]
+11:I[30887,[],"$10"]
+12:I[60214,[],"IconMark"]
 7:X
 7:C
 8:X
 9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","main",null,{"id":"main-content","className":"privacy-page site-container","children":["$","article",null,{"children":[["$","h1",null,{"children":"خصوصية المعاينة"}],["$","p",null,{"children":"هذه معاينة تصميم للقراءة فقط. لا تُرسل بيانات النماذج ولا تُحفظ على الخادم. تُحفظ قائمة المنتجات المختارة في متصفحك فقط."}],["$","p",null,{"children":"لا تستخدم المعاينة تحليلات الموقع. قد تتصل الخريطة بخدمة خرائط خارجية."}]]}]}],null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$8"}}]]
 2:[["children",{"s":"privacy","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
-1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error"]},"h":65568,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fcf8f2"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","meta","0",{"name":"robots","content":"noindex, nofollow"}],["$","link","1",{"rel":"icon","href":"/huiheng-autoparts-demo/brand/logo.jpg"}],["$","$L12","2",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"_us8997KC0r-uXYepzZ5V"}
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error","admin"]},"h":65568,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fcf8f2"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","meta","0",{"name":"robots","content":"noindex, nofollow"}],["$","link","1",{"rel":"icon","href":"/huiheng-autoparts-demo/brand/logo.jpg"}],["$","$L12","2",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"nijDaOOHJppfnDVqEUKyL"}
 c:null
 15:true
 8:300

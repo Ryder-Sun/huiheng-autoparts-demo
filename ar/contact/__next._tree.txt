@@ -7,5 +7,5 @@
 :HL["/huiheng-autoparts-demo/brand/facebook.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"contact","h":64,"c":"$Q3"}]]
-1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error"]},"h":65568,"c":"$Q2"}]]
-0:{"b":"_us8997KC0r-uXYepzZ5V","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+1:[["children",{"s":{"n":"locale","t":"d","k":"ar","s":["_not-found","_global-error","admin"]},"h":65568,"c":"$Q2"}]]
+0:{"b":"nijDaOOHJppfnDVqEUKyL","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
